@@ -1,0 +1,15 @@
+El siguiente programa para leer archivos de texto tiene las
+siguientes condiciones:
+
+-El nombre del archivo de texto debe ser prueba 
+
+-El nombre de los router solo pueden ser letras del abecedario
+y en mayusculas
+
+-El archivo de texto tiene de predeterminado la siguiente 
+direccion ("D:/prueba.txt")
+
+-Si en el archivo de texto esta por ejemplo (AC,2) no es 
+necesario colocar (CA,2)
+
+
